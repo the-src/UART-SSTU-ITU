@@ -1,5 +1,3 @@
-# README.md
-
 # UART Driver Project
 
 This project implements a Universal Asynchronous Receiver-Transmitter (UART) driver in Verilog. The design includes modules for the transmitter, receiver, baud rate generator, and a top module, along with their respective testbenches.
