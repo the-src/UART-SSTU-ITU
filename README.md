@@ -16,9 +16,6 @@ This project implements a Universal Asynchronous Receiver-Transmitter (UART) dri
   - `baud_gen_tb.v`: Testbench for the baud rate generator.
   - `uart_top_tb.v`: Testbench for the top module.
 
-- **sim/**: Contains simulation scripts and files.
-  - `wave.do`: Script for waveform generation.
-
 - **constraints/**: Contains constraint files for FPGA implementation.
   - `uart_constraints.xdc`: Constraints for the UART design.
 
